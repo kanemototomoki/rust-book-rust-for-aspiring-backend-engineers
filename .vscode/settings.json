@@ -1,0 +1,9 @@
+{
+  "[rust]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "rust-analyzer.checkOnSave": false,
+  "rust-analyzer.check.command": "clippy",
+  "rust-analyzer.linkedProjects": ["./chapter/3_calculation-quiz/Cargo.toml"]
+}
