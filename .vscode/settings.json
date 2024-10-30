@@ -5,5 +5,8 @@
   },
   "rust-analyzer.checkOnSave": false,
   "rust-analyzer.check.command": "clippy",
-  "rust-analyzer.linkedProjects": ["./chapter/_3_calculation-quiz/Cargo.toml"]
+  "rust-analyzer.linkedProjects": [
+    "./chapter/_3_calculation-quiz/Cargo.toml",
+    "./chapter/_4_simple_poker/Cargo.toml"
+  ]
 }
