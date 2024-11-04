@@ -8,6 +8,7 @@
   "rust-analyzer.linkedProjects": [
     "./chapter/_3_calculation-quiz/Cargo.toml",
     "./chapter/_4_simple_poker/Cargo.toml",
-    "./chapter/_5_calculator/Cargo.toml"
+    "./chapter/_5_calculator/Cargo.toml",
+    "./chapter/_6_kakeibo/Cargo.toml"
   ]
 }
